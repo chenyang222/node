@@ -1,0 +1,6 @@
+
+
+1.先注册npm账号 ( ranchy,ranqiyang123 )
+2.package.json  npm init 配置
+3.npm adduser 添加发布用户
+4.npm publish 发布你的模块

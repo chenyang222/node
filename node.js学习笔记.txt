@@ -1,0 +1,22 @@
+ 命令行操作
+1.node javascript.js 运行指定js文件
+2.node 进入node命令交互模式(可以输入js代码)
+3. ctrl + c两次或者 ctrl + d 退出node 命令交互模式
+
+npm常用操作
+
+1.npm -v 查看当前npm版本
+2.npm install npm -g 更新npm
+3.npm install <Module Name> 使用npm命令安装模块,本地安装
+4.npm install <Module Name> -g 使用npm命令安装模块,全局安装
+5.npm list -g 查看所有全局安装的模块
+6.npm list <Module Name> 查看某个模块的版本号
+7.npm uninstall <Module Name> 卸载
+8.npm ls /node_modules/ 目录下查看包是否还存在
+9.npm update <Module Name> 更新模块
+10.npm search <Module Name> 搜索模块
+11.npm init 创建模块
+
+
+
+
